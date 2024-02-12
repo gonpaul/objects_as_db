@@ -63,9 +63,9 @@ const EmployeeDB = {
   }
 };
 
-```
-if two variables refer to the same object,
-they are indeed considered equal because they point to the same memory location,
- i.e., they are two references to the same object
-```
 
+// if two variables refer to the same object,
+// they are indeed considered equal because they point to the same memory location,
+//  i.e., they are two references to the same object
+
+export default EmployeeDB;
